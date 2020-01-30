@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Injector", "bzflag-demos.vcxproj", "{A18D1EF6-29E1-46B1-BFA9-DC2BCEE05FE6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wallhack", "Wallhack\Wallhack.vcxproj", "{9E287382-21EC-4924-B762-EB685B29B458}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MovementHack", "MovementHack\MovementHack.vcxproj", "{D2162FA2-1E4F-431C-9BE5-E1D3C93680FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18D1EF6-29E1-46B1-BFA9-DC2BCEE05FE6}.Debug|x86.ActiveCfg = Debug|Win32
+		{A18D1EF6-29E1-46B1-BFA9-DC2BCEE05FE6}.Debug|x86.Build.0 = Debug|Win32
+		{A18D1EF6-29E1-46B1-BFA9-DC2BCEE05FE6}.Release|x86.ActiveCfg = Release|Win32
+		{A18D1EF6-29E1-46B1-BFA9-DC2BCEE05FE6}.Release|x86.Build.0 = Release|Win32
+		{9E287382-21EC-4924-B762-EB685B29B458}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E287382-21EC-4924-B762-EB685B29B458}.Debug|x86.Build.0 = Debug|Win32
+		{9E287382-21EC-4924-B762-EB685B29B458}.Release|x86.ActiveCfg = Release|Win32
+		{9E287382-21EC-4924-B762-EB685B29B458}.Release|x86.Build.0 = Release|Win32
+		{D2162FA2-1E4F-431C-9BE5-E1D3C93680FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2162FA2-1E4F-431C-9BE5-E1D3C93680FF}.Debug|x86.Build.0 = Debug|Win32
+		{D2162FA2-1E4F-431C-9BE5-E1D3C93680FF}.Release|x86.ActiveCfg = Release|Win32
+		{D2162FA2-1E4F-431C-9BE5-E1D3C93680FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49636DBB-6B06-43ED-BAFF-A60E8BF04907}
+	EndGlobalSection
+EndGlobal
